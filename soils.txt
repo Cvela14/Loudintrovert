@@ -1,0 +1,13 @@
+
+Tundra Dirt
+Podzol Dirt
+Brown Forest Dirt
+Lateritic/Latosol/Ferralsol Dirt
+Chernozem/Prairie/Steppe Dirt 
+Grumusols/ Reddish Brown Dirt
+Desert (Seirozems and Red Desert) Dirt
+Intrazonal Dirt
+Hydromorphic Dirt
+Calcimorphic Dirt
+Halomorphic Dirt
+Azonal Dirt

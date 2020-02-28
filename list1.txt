@@ -1,0 +1,10 @@
+total 44
+4 -rw-r--r-- 1 ccuser ccuser  240 Mar  3  2016 fish.txt
+4 -rw-r--r-- 1 ccuser ccuser  298 Mar  3  2016 flowers.txt
+4 -rw-r--r-- 1 ccuser ccuser  245 Mar  3  2016 fungi.txt
+4 -rw-r--r-- 1 ccuser ccuser  312 Mar  3  2016 insects.txt
+0 -rw-r--r-- 1 ccuser ccuser    0 Feb 28 03:26 list1.txt
+4 -rw-r--r-- 1 ccuser ccuser  454 Mar  3  2016 mammals.txt
+4 -rw-r--r-- 1 ccuser ccuser  292 Feb 28 03:24 mosses.txt
+4 -rw-r--r-- 1 ccuser ccuser  856 Feb 28 03:25 plants.txt
+4 -rw-r--r-- 1 ccuser ccuser  292 Mar  3  2016 rocks.txt
